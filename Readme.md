@@ -1,11 +1,8 @@
-# Creativity.
+# Creativity Landing page
 
 ### Brief Overview of Project
 
 ![Test Image 1](./thumbnail.png)
 
-## Creator Name: **Deepak Dutta**
+## Duration : The project is designed to take approximately 3 hours to complete.
 
-## Duration : **Almost 2 hours**
-
-## Learn : Here i am useing Css flex box and Font awesome icon
